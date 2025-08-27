@@ -4,17 +4,18 @@ Este repositorio contiene un script en MATLAB diseñado para realizar una regres
 
 ## 🛠️ Características:
 
-- Cálculo de parámetros de regresión: pendiente (m), ordenada al origen (b)
-- Estimación de errores estadísticos en m y b
-- Cálculo del coeficiente de correlación (R)
+- Cálculo de parámetros de regresión: pendiente _(**m**)_, ordenada al origen _(**b**)_
+- Estimación de errores estadísticos en _**m**_ y _**b**_
+- Cálculo del coeficiente de correlación _(**R**)_
 - Visualización gráfica con datos experimentales y recta de ajuste
 - Comentarios explicativos integrados para uso docente
 
 ## 📊 Datos de entrada:  
 
-```matlab
+'''matlab
 x = [0 49 98 147 195 244 293]; % Indicador del contador
-y = [4.0009 5.0013 6.0016 7.0019 7.9873 9.0025 10.0028]; % Rc```  
+y = [4.0009 5.0013 6.0016 7.0019 7.9873 9.0025 10.0028]; % Rc ```
+
 
 ## 📷 Salida gráfica:  
 • 	Gráfico con puntos experimentales en rojo  
