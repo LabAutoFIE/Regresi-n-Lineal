@@ -12,11 +12,11 @@ Este repositorio contiene un script en MATLAB diseñado para realizar una regres
 
 ## 📊 Datos de entrada:  
 
-'''matlab
+```matlab
 x = [0 49 98 147 195 244 293]; % Indicador del contador
-y = [4.0009 5.0013 6.0016 7.0019 7.9873 9.0025 10.0028]; % Rc ```
+y = [4.0009 5.0013 6.0016 7.0019 7.9873 9.0025 10.0028]; % Rc 
 
-
+```markdown
 ## 📷 Salida gráfica:  
 • 	Gráfico con puntos experimentales en rojo  
 • 	Recta de regresión trazada entre extremos  
